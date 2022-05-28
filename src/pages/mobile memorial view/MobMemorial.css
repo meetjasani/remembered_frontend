@@ -1,0 +1,699 @@
+.mobile-conatainer {
+    max-width: 640px;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 51px;
+    padding-right: 49px;
+    padding-top: 145px;
+}
+
+.blank-post-title h5{
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Spoqa Han Sans Neo;
+    margin-bottom: 30px;
+}
+
+.blank-post-title {
+    border-bottom:1px solid #e1e1e1;
+    margin-top:50px;
+}
+
+.mobile-view-profile .mobile-hero-section h3 {
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 57px;
+    margin-bottom: 0;
+    font-family: Spoqa Han Sans Neo;
+    word-break: keep-all;
+}
+
+.mobile-view-profile .mobile-hero-section h3:nth-child(2) {
+    margin-top: 6px !important;
+}
+
+.mobile-view-profile .mobile-hero-section p {
+    font-family: Spoqa Han Sans Neo;
+    font-weight: normal;
+    font-size: 20px;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.mobile-view-profile .mobile-hero-section p span {
+    font-weight: bold;
+    color: #FFB932;
+    margin-left:10px;
+}
+
+.mobile-view-profile .mobile-hero-section p span span {
+    color: #fff;
+    margin-left:0 !important ;
+}
+
+.mobile-view-profile .mobile-hero-section .obituryBtn {
+    /* max-width: 180px; */
+    height: 60px;
+    width: 180px;
+    background: #FFB932;
+    border-radius: 100px;
+    color: #FAFAFA;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Spoqa Han Sans Neo;
+    border: none !important;
+}
+
+.mobile-view-profile .mobile-hero-section .total-counter-obitury {
+    margin-top: 10px;
+}
+
+.memoraila-profile-mob .profile-image {
+    position: relative;
+    width: 148px;
+    height: 148px;
+    margin: 0 auto;
+}
+
+.memoraila-profile-mob .profile-image img {
+    border-radius: 50%;
+    height: 148px;
+    width: 148px;
+}
+
+.memorial-followers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.memorial-followers p {
+    margin-bottom: 0;
+}
+
+.memorial-followers p .followers {
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: -1px;
+    color: #010100;
+    opacity: 0.4;
+    line-height: 36px;
+    margin-left: 10px;
+    font-family: Spoqa Han Sans Neo;
+}
+
+.memorial-followers p .counters {
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 3px;
+    letter-spacing: -1px;
+    color: #FFB932;
+    opacity: 1 !important;
+}
+
+.mobile-memorial-profile {
+    margin-top: -101px !important;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.memoraila-profile-mob h4 {
+    font-family: Spoqa Han Sans Neo;
+    font-weight: normal;
+    font-size: 18px;
+    letter-spacing: -1px;
+    color: #010100;
+    opacity: 0.6;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.memoraila-profile-mob h2 {
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: -1px;
+    color: #010100;
+    line-height: 36px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.register-section .register-title {
+    border-top: 1px solid #c8c8c8;
+    border-bottom: 1px solid #c8c8c8;
+    margin-top: 20px;
+}
+
+.register-section .register-title h3 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #6EB0ED;
+    font-family: Spoqa Han Sans Neo;
+    margin-bottom: 0;
+    height: 60px;
+    line-height: 60px;
+}
+
+.register-section .register-title h3 span {
+    letter-spacing: -1px;
+    color: #010100;
+    font-weight: normal;
+    margin-left: 10px;
+}
+
+.register-section .memorial-info h6 {
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Spoqa Han Sans Neo;
+    letter-spacing: -1px;
+    color: #010100;
+    line-height: 34px;
+    margin-bottom: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.memorial-info-label p {
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 36px;
+    color: #010100;
+    font-family: Spoqa Han Sans Neo;
+}
+
+.memorial-info-details p {
+    margin-bottom: 0;
+    font-weight: normal;
+    font-size: 20px;
+    letter-spacing: -1px;
+    color: #010100;
+    font-family: Spoqa Han Sans Neo;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.contact-information {
+    border-top: 1px solid #c8c8c8;
+}
+
+.memorial-info-row:first-child {
+    margin-top: 30px;
+}
+
+.memorial-info-row {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.google-map iframe {
+    min-width: 540px;
+    width: 100%;
+    height: 218px;
+    border: none;
+    margin-top: 30px;
+}
+
+.contact-info-btn {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #010100;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-info-btn .copy-address-btn {
+    width: 260px;
+    height: 60px;
+    border-radius: 100px;
+    border: 1px solid #FFB932;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFB932;
+    font-family: Spoqa Han Sans Neo;
+    background: #fff;
+    margin-right: 20px;
+}
+
+.contact-info-btn .call-btn {
+    width: 260px;
+    height: 60px;
+    border-radius: 100px;
+    border: 1px solid #FFB932;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+    font-family: Spoqa Han Sans Neo;
+    background: #FFB932;
+}
+
+.mobile-editor-view .edit-trash-btn {
+    text-align: end;
+}
+
+.memorial-msg-head {
+    padding-top: 30px;
+}
+
+.memorial-msg-head h4 {
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: -1px;
+    font-family: Spoqa Han Sans Neo;
+    color: #010100;
+    margin-bottom: 0;
+}
+
+.single-post-content video {
+    width: 100% !important;
+}
+
+.send-donationBtn {
+    width: 150px;
+    height: 50px;
+    background: #FFB932;
+    border-radius: 100px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FAFAFA;
+    font-family: Spoqa Han Sans Neo;
+    border: none !important;
+}
+
+.send-donationBtn-disable {
+    width: 150px;
+    height: 50px;
+    background: #eaeaea;
+    border-radius: 100px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FAFAFA;
+    font-family: Spoqa Han Sans Neo;
+    border: none !important;
+}
+
+.donation-history-box {
+    padding-top: 32px;
+}
+
+.donation-history-box .memorial-msg-head {
+    padding-top: 0 !important;
+}
+
+.mob-donetion-history-head {
+    border-top: 1px solid #c8c8c8;
+    border-bottom: 1px solid #c8c8c8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 14px;
+}
+
+.total-donation-amount {
+    padding-top: 30px;
+    padding-bottom: 52px;
+}
+
+.total-donation-amount h3 {
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: -1px;
+    font-family: Spoqa Han Sans Neo;
+    color: #010100;
+    margin-bottom: 0;
+}
+
+.total-donation-amount h1 {
+    font-weight: bold;
+    font-size: 34px;
+    letter-spacing: -1px;
+    font-family: Spoqa Han Sans Neo;
+    color: #FFB932;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.total-donation-amount h1 span {
+    font-size: 20px;
+}
+
+.memorial-info-label {
+    width: 120px;
+}
+
+.gotopostbutton{
+    background: #FFB932 !important;
+border-radius: 100px !important;
+font-weight: bold !important;
+font-size: 18px !important;
+color: #FAFAFA !important;
+letter-spacing:-1px;
+padding:13px 14px;
+text-decoration:none !important;
+}
+
+.gotoPost-btn-row{
+    height:50px;
+    margin-bottom:14px;
+    margin-top:-10px;
+}
+
+.gotoPost-btn-row h5{
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: -1px;
+    font-family: Spoqa Han Sans Neo;
+    color: #010100;
+    margin-bottom: 0;
+}
+
+.p-full-width{
+    max-width:419px;
+    width:auto;
+    text-align: right;
+}
+
+.p-half-width{
+    /* max-width:325px; */
+    width:auto;
+    text-align: right;
+
+}
+
+.see-moreBtn{
+    font-weight: normal;
+font-size: 18px;
+font-family: Spoqa Han Sans Neo;
+text-align: center;
+letter-spacing: -1px;
+color:#7e7e7d;
+padding-top:23px;
+padding-bottom:19px;
+border-bottom:1px solid #C8C8C8;
+border-top:1px solid #C8C8C8;
+
+}
+
+@media (min-width:640px) and (max-width:767px){
+    .heart-icon img {
+        height: 22.36px !important;
+        width: 28.59px !important;
+    }
+}
+
+@media (max-width:639px) {
+    .add-post-title-row{
+        margin-top:10px;
+        margin-bottom:8.5px;
+    }
+    .add-post-title-row h5{
+        font-weight: bold;
+        font-size: 12px;
+        color: #010100;
+        letter-spacing: -0.5px;
+        font-family: Spoqa Han Sans Neo;
+        margin-bottom: 0;
+
+    }
+    .mobile-conatainer {
+        padding-top: 72.5px;
+        padding-left: 25.5px;
+        padding-right: 24.5px;
+    }
+    .mobile-view-profile .mobile-hero-section h3 {
+        letter-spacing: -0.5px;
+        font-size: 23px;
+        color: #FFFFFF;
+        line-height: 28.5px;
+    }
+    .memoraila-profile-mob .profile-image {
+        position: relative;
+        width: 74px;
+        height: 74px;
+        margin: 0 auto;
+    }
+    .memoraila-profile-mob .profile-image img {
+        width: 74px;
+        height: 74px;
+    }
+    .mobile-memorial-profile {
+        margin-top: -51.5px !important;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .mobile-view-profile .mobile-hero-section .obituryBtn {
+        width: 90px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .memoraila-profile-mob h4 {
+        font-size: 9px;
+        margin-top: 15px;
+        letter-spacing: -0.5px;
+    }
+    .memoraila-profile-mob h2 {
+        font-size: 15px;
+        letter-spacing: -0.5px;
+        line-height: 18px;
+        margin-top: 5px;
+    }
+    .memorial-followers img {
+        width: 10px;
+        height: 7.85px;
+    }
+    .memorial-followers p .followers {
+        font-size: 9px;
+        letter-spacing: -0.5px;
+        line-height: 18px;
+        margin-left: 5px;
+    }
+    .memorial-followers p .counters {
+        font-size: 12px;
+        line-height: 18px;
+        letter-spacing: -0.5px;
+    }
+    .register-section .register-title {
+        border-top: 0.5px solid #c8c8c8;
+        border-bottom: 0.5px solid #c8c8c8;
+        margin-top: 10px;
+    }
+    .register-section .register-title h3 {
+        height: 30px;
+        line-height: 30px;
+        font-size: 9px;
+    }
+    .register-section .register-title h3 span {
+        margin-left: 5px;
+        letter-spacing: -0.5px;
+    }
+    .register-section .memorial-info h6 {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 10px;
+        line-height: 17px;
+        letter-spacing: -0.5px;
+    }
+    .contact-information {
+        border-top: 0.5px solid #c8c8c8;
+    }
+    .memorial-info-label p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .memorial-info-details p {
+        letter-spacing: -0.5px;
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .memorial-info-row:first-child {
+        margin-top: 15px;
+    }
+    .memorial-info-row {
+        margin-top: 10px;
+    }
+    .google-map iframe {
+        min-width: 270px;
+        width: 100%;
+        height: 109px;
+        margin-top: 15px;
+    }
+    .contact-info-btn {
+        padding-top: 15px;
+        padding-bottom: 25px;
+        border-bottom: 0.5px solid #010100;
+    }
+    .contact-info-btn .copy-address-btn {
+        width: 130px;
+        height: 30px;
+        border-radius: 50px;
+        font-size: 10px;
+        border: 0.5px solid #FFB932;
+        margin-right: 10px;
+    }
+    .contact-info-btn .call-btn {
+        width: 130px;
+        height: 30px;
+        border-radius: 50px;
+        font-size: 10px;
+        border: 0.5px solid #FFB932;
+        margin-right: 10px;
+    }
+    .memorial-msg-head {
+        padding-top: 15px;
+    }
+    .memorial-msg-head h4 {
+        font-size: 12px;
+        letter-spacing: -0.5px;
+    }
+    .post-review {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .donation-history-box {
+        padding-top: 16px;
+    }
+    .send-donationBtn,.send-donationBtn-disable {
+        width: 75px;
+        height: 25px;
+        font-size: 9px;
+        border-radius: 50px;
+    }
+    .mob-donetion-history-head {
+        border-top: 0.5px solid #c8c8c8;
+        border-bottom: 0.5px solid #c8c8c8;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 7px;
+    }
+    .total-donation-amount {
+        padding-top: 15px;
+        padding-bottom: 25px;
+    }
+    .total-donation-amount h3 {
+        font-size: 10px;
+        letter-spacing: -0.5px;
+    }
+    .total-donation-amount h1 {
+        margin-top: 5px;
+        font-size: 17px;
+        letter-spacing: -0.5px;
+    }
+    .total-donation-amount h1 span {
+        font-size: 10px;
+    }
+    .memorial-info-label {
+        width: 60px;
+    }
+    .heart-icon img {
+        height: 11.18px !important;
+        width: 14.30px !important;
+    }
+    .blank-post-title h5{
+        font-weight: bold;
+        font-size: 12px;
+        font-family: Spoqa Han Sans Neo;
+        margin-bottom: 15px;
+    }
+    
+    .blank-post-title {
+        border-bottom:0.5px solid #e1e1e1;
+        margin-top:25px;
+    }
+
+    /* .bg-orangeBtn{
+        width: 75px !important;
+    height: 25px !important;
+    background: #FFB932 !important;
+    border-radius: 100px !important;
+    font-weight: bold !important;
+    font-size: 9px !important;
+    color: #FAFAFA !important;
+    border:none !important;
+    padding: 0 !important;
+    } */
+
+    .gotopostbutton{
+        background: #FFB932 !important;
+    border-radius: 100px !important;
+    font-weight: bold !important;
+    font-size: 9px !important;
+    color: #FAFAFA !important;
+    letter-spacing:-0.5px;
+    padding:6.5px 7px;
+    text-decoration:none !important;
+    }
+
+    .gotoPost-btn-row{
+        height:25px !important;
+        margin-bottom:8.5px;
+        /* margin-top:-10px; */
+    }
+    
+    .gotoPost-btn-row h5{
+        font-weight: bold;
+        font-size: 12px;
+        letter-spacing: -0.5px;
+        font-family: Spoqa Han Sans Neo;
+        color: #010100;
+        margin-bottom: 0;
+    }
+
+    .p-full-width{
+        max-width:209.5px;
+        width:auto;
+        text-align: right;
+    }
+
+    .p-half-width{
+        /* max-width:162.5px; */
+        width:auto;
+        text-align: right;
+
+    }
+
+    .mobile-view-profile .mobile-hero-section p{
+        font-size:10px;
+        letter-spacing:-0.5px;
+    }
+
+    .mobile-view-profile .mobile-hero-section p span{
+        margin-left:5px;
+    }
+
+    .mobile-view-profile .mobile-hero-section p span span {
+        margin-left:0 !important ;
+    }
+
+    .copied-tooltip .copied-tooltiptext{
+        width: 60px !important;
+        left: auto !important;
+        right: -18px !important;
+        font-size: 8px !important;
+        margin-left: -69px !important;
+        bottom: 35px !important;
+    }
+
+    .see-moreBtn{
+        font-weight: normal;
+font-size: 9px;
+font-family: Spoqa Han Sans Neo;
+text-align: center;
+letter-spacing: -0.5px;
+color:#7e7e7d;
+padding-top:11.5px;
+padding-bottom:9.5px;
+border-bottom:0.5px solid #C8C8C8;
+border-top:0.5px solid #C8C8C8;
+
+    }
+    
+}
+
+
